@@ -1,9 +1,9 @@
 # My Old PSX Games
-These are MODDED games
-Language - Russian
-Cutscennes and some PS1 boots are different
-The ZIP Contains .BINs and .CUEs
-Game List (36):
+These are MODDED games --- 
+Language - Russian --- 
+Cutscennes and some PS1 boots are different --- 
+The ZIP Contains .BINs and .CUEs --- 
+Game List (36): 
   Colin Mcrae Rally 2 in 1;
   Crash Bandicoot 3 in 1;
   DRIVER 2 in 1;
